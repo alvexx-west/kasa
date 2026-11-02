@@ -1,0 +1,15 @@
+{
+  "name": "KASa - Catatan Keuangan",
+  "short_name": "KASa",
+  "description": "Pencatat pemasukan dan pengeluaran pribadi",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090f1b",
+  "theme_color": "#0B0F14",
+  "icons": [
+    {"src": "kasa-icon-dark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
